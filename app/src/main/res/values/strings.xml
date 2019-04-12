@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Radius</string>
+    <string name="vendhana">Vendhana</string>
+    <string name="name">Name :</string>
+    <string name="age">Age :</string>
+    <string name="_20">20</string>
+    <string name="error">Server Error... Check your Network and Try again later</string>
+    <string name="retry">Retry!</string>
+</resources>
