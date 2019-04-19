@@ -14,5 +14,5 @@ c. User’s Age.
 
 # Procedure:
 1. Used String request in volley to get the json array in response.
-2. used string manipulation retrieved required data of each user.
-3. used lazy image loading technique for loading and dsiplaying image from url as an aysnc task.
+2. Used string manipulation retrieved required data of each user.
+3. Used lazy image loading technique for loading and dsiplaying image from url as an aysnc task.
